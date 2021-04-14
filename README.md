@@ -1,28 +1,23 @@
-# Tamedia TDA Full-Stack Challenge.
+# Kollabo Full-Stack Challenge.
 
 ## Intro 
 
 This challenge is about showing us that you are a hacker with a fast perception and excellent analytic skills but also that you are able to dive into and leverage modern web technologies to create an awesome user experience.
-We want you to build a progressive web application that shows a simple view on a list of products that any of our major sites offer. 
+We want you to build a progressive web application that shows a simple view on a list of jobs that the major job site in switzerland offers. 
 
-### Sites
-- www.ricardo.ch - platform similar to ebay [play store](https://play.google.com/store/apps/details?id=com.qxl.Client)
-- www.tutti.ch - platform similar to craigslist [play store](https://play.google.com/store/apps/details?id=ch.tutti)
-- www.20min.ch - news [play store](https://play.google.com/store/apps/details?id=ch.iAgentur.i20Min)
-- www.tagesanzeiger.ch - news [play store](https://play.google.com/store/apps/details?id=com.phonegap.tagesanzeiger)
-- www.homegate.ch - real estate [play store](https://play.google.com/store/apps/details?id=ch.homegate.mobile)
+### Site
 - www.jobs.ch - jobs [play store](https://play.google.com/store/apps/details?id=com.iAgentur.jobsCh)
 
 ## step 1
-You should choose one of the above platforms and then reverse engineer their mobile API.
+You should use the platform mentioned above and then reverse engineer their mobile API.
 E.g. by using Mitmproxy or Charles Proxy. 
 Extract the endpoints to get the list/search and the detail entries.
 
 ## step 2
 Use their API to build a small progressive web application with 2 simple views:
 
-- a list of products (e.g. newest 20, whatever the API proivdes) 
-- a detail view if you tap on a product.
+- a list of jobs (e.g. newest 20, whatever the API proivdes) 
+- a detail view if you tap on a job.
 
 You can find more information about what a Progressive web here in Fabians Paper at [progressive-web-apps.md](progressive-web-apps.md)
 
@@ -48,7 +43,7 @@ Bonus:
 - extra bonus points for making us laugh
 
 ### Hints: 
-- Progressive Web Apps need TLS endpoints. Sadly we have sites that do not offer https. If you still want to use one of these you need to hack around that.
+- Progressive Web Apps need TLS endpoints. Sadly it could be that the site does do not offer https. If this is the case, you will need to hack around that.
 
 
 
