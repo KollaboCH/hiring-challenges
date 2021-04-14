@@ -19,7 +19,7 @@ Use their API to build a small progressive web application with 2 simple views:
 - a list of jobs (e.g. newest 20, whatever the API proivdes) 
 - a detail view if you tap on a job.
 
-You can find more information about what a Progressive web here in Fabians Paper at [progressive-web-apps.md](progressive-web-apps.md)
+You can find more information about what a Progressive web here: [progressive-web-apps.md](progressive-web-apps.md)
 
 You do not necessairly need to implement all features (e.g. notifications). 
 Watch your time and try to get as far as possible in about 5-8 hours of hacking.
