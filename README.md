@@ -42,9 +42,5 @@ Bonus:
 - add additional features/gimmicks/easter egg.
 - extra bonus points for making us laugh
 
-### Hints: 
-- Progressive Web Apps need TLS endpoints. Sadly it could be that the site does not offer https. If this is the case, you will need to hack around that.
-
-
 
 
