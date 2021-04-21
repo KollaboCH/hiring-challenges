@@ -74,7 +74,7 @@ As can be derived from this Web App manifest, it defines the name, the backgroun
 
 Chrome on Android or Safari on iOS has support for adding a site to the home screen for a while now. But recents versions of Chrome on Android also support suggesting sites be added using native [Web App install banners](https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android).
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_B45631070937FB75D428ADAD43FD5B935F55B483DFB9DF98B069757B9AAF5A17_1463303124012_pwa-home-screen.jpg)
+![sceenshot2](https://webdev.imgix.net/customize-install/spotify-custom-install.png)
 
 
 In order to display the Web App install banner the application must meet the following criteria:
