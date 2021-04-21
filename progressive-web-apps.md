@@ -32,7 +32,7 @@ It is important to say that Progressive Web Apps aren’t only unique to Google 
 
 The Web App manifest enables a web application to have a rich presence on the users home screen and can therefore be launched in full-screen mode with not URL bar on Android. Furthermore, when a user starts the app from the home screen then a “[splash screen](https://developers.google.com/web/updates/2015/10/splashscreen?hl=en)” is shown with the [theme color ](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en)and the app icon. 
 
-![homescreen](https://d2mxuefqeaa7sj.cloudfront.net/s_B45631070937FB75D428ADAD43FD5B935F55B483DFB9DF98B069757B9AAF5A17_1463302534619_pwa-web-app-manifest.jpg)
+![homescreen](https://i.imgur.com/g2Diq8D.png)
 
 
 The following Web App manifest is from the 20min Digital News App:
