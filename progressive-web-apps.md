@@ -19,7 +19,7 @@ Google came up with the term Progressive Web App in 2015 to describe modern web 
 
 Such an application is powered by modern Web technologies to load very fast on slow network connections ([Service Worker)](http://www.html5rocks.com/en/tutorials/service-worker/introduction/), send [Push Notifications](https://developers.google.com/web/fundamentals/engage-and-retain/push-notifications/) and [can be installed](https://developers.google.com/web/updates/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android) on the mobile device to act like a native App.
 
-![screenshots](https://d2mxuefqeaa7sj.cloudfront.net/s_B45631070937FB75D428ADAD43FD5B935F55B483DFB9DF98B069757B9AAF5A17_1463303084616_pwa-overview-example.jpg)
+![screenshots](https://play-lh.googleusercontent.com/bxK5z31rRLKpLlPksyWB0j0twWFJQnuhFekykXrNX4i1O2a2ZepcKAZalTERfUATLyH5=w720-h310-rw)
 
 
 The example above shows the 20min Digital News App that [Fabian Mettler](https://github.com/maveonair) built for his application at Tamedia. It is a Progressive Web App that is be used in this paper to explain the principles of a Progressive Web App.
