@@ -32,7 +32,7 @@ It is important to say that Progressive Web Apps aren’t only unique to Google 
 
 The Web App manifest enables a web application to have a rich presence on the users home screen and can therefore be launched in full-screen mode with not URL bar on Android. Furthermore, when a user starts the app from the home screen then a “[splash screen](https://developers.google.com/web/updates/2015/10/splashscreen?hl=en)” is shown with the [theme color ](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en)and the app icon. 
 
-![homescreen](https://i.imgur.com/g2Diq8D.png)
+![homescreen](https://developers.google.com/web/updates/images/2018/06/a2hs-banner-g.png)
 
 
 The following Web App manifest is from the 20min Digital News App:
@@ -86,10 +86,6 @@ In order to display the Web App install banner the application must meet the fol
 ## Service Worker for caching
 
 A [Service Worker](https://www.w3.org/TR/service-workers) is a script with a short lifetime that runs in the background, separate from the web application. It wakes up when it gets an event and runs only als long as it needs to process it. This allows a web application for example to use the Cache API to cache resources and thus to provide users with an offline experience. But a Service Worker can not only be used for offline caching, instead it can also offer a significant performance wins in the form of instant loading for repeat visits to the web application. Thus, the  shell of web application can be cached so it works offline and the content is populated by using JavaScript.
-
-
-![funky](https://www.monterail.com/hs-fs/hubfs/offlineBad.gif?width=400&name=offlineBad.gif)
-![funky2](https://miro.medium.com/max/700/1*gOZxZnHgfJIDgoeC_Spqog.gif)
 
 
 
