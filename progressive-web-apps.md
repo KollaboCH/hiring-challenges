@@ -88,8 +88,8 @@ In order to display the Web App install banner the application must meet the fol
 A [Service Worker](https://www.w3.org/TR/service-workers) is a script with a short lifetime that runs in the background, separate from the web application. It wakes up when it gets an event and runs only als long as it needs to process it. This allows a web application for example to use the Cache API to cache resources and thus to provide users with an offline experience. But a Service Worker can not only be used for offline caching, instead it can also offer a significant performance wins in the form of instant loading for repeat visits to the web application. Thus, the  shell of web application can be cached so it works offline and the content is populated by using JavaScript.
 
 
-![funky](https://d2mxuefqeaa7sj.cloudfront.net/s_B45631070937FB75D428ADAD43FD5B935F55B483DFB9DF98B069757B9AAF5A17_1463304832315_pwa-startup-offline.gif)
-![funky2](https://d2mxuefqeaa7sj.cloudfront.net/s_B45631070937FB75D428ADAD43FD5B935F55B483DFB9DF98B069757B9AAF5A17_1463304870228_pwa-refresh-offline.gif)
+![funky](https://www.monterail.com/hs-fs/hubfs/offlineBad.gif?width=400&name=offlineBad.gif)
+![funky2](https://miro.medium.com/max/700/1*gOZxZnHgfJIDgoeC_Spqog.gif)
 
 
 
