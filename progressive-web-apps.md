@@ -184,10 +184,7 @@ In the case of a network request, a Service Worker can listen to the *fetch even
 
 [Push Notifications](https://developers.google.com/web/fundamentals/getting-started/push-notifications) can be an important enabler for a web application to engage with its users outside of a tab. The browser can be closed and the web application must not be opened to receive push notifications. In order to use this feature, a Service Work and a Web App manifest is required.
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_B45631070937FB75D428ADAD43FD5B935F55B483DFB9DF98B069757B9AAF5A17_1463309506527_pwa-push-notification.jpg)
-
-
-Unfortunately, the Push API is only [implemented](https://www.chromestatus.com/features/5416033485586432) in Google Chrome, currently in development in Firefox and under consideration in other browsers.
+![](https://www.opal.ai/images/WebPush/web-push-notification@2x.png)
 
 ### 
 
