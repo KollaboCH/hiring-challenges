@@ -24,11 +24,19 @@ You can find more information about what a Progressive web here: [progressive-we
 You do not necessairly need to implement all features (e.g. notifications). 
 Watch your time and try to get as far as possible in about 5-8 hours of hacking.
 
+## Constraints
+
+Depending on your project architecture, you are kindly asked to use one or multiple of the following technologies:
+
+- NodeJS
+- Angular
+
 ## Evaluation criterias
 
 What we look for:
 
 - clean project setup and documentation
+- proper usage of the above state technologiges
 - ability to dive into a new topic, extract the important points and then code it up.
 - **polish and an eye for design:** focus on making it look good instead of adding features.
 - make it snappy 
