@@ -1,54 +1,48 @@
-# Kollabo Full-Stack Challenge.
+# Kollabo coding challenge for full-stack candidates
 
-## Intro 
+This is your time to shine and to show that you're into tech as much as we are! But why do we offer coding challenges?
+- giving you the chance to prove that you have the right experience and ability to:
+  - dive into a new topic
+  - extract the important points 
+  - code it up
+  - deliver on time
+- also, we're interested in seeing the quality of your code, as well as your personal coding style
+# Challenge description
 
-This challenge is about showing us that you are a hacker with a fast perception and excellent analytic skills but also that you are able to dive into and leverage modern web technologies to create an awesome user experience.
-We want you to build a progressive web application that shows a simple view on a list of jobs that the major job site in switzerland offers. 
+## Requirements
 
-### Site
-- www.jobs.ch - jobs [play store](https://play.google.com/store/apps/details?id=com.iAgentur.jobsCh)
+- build a small Angular web app by reusing existing API from the Swiss job portal [jobs.ch](www.jobs.ch)
+- analyze and reverse-engineer their website and their API
+- integrate their API into your Angular web app, and provide the following pages:
+    - simple job search, incl. displaying the results
+    - details page to show more properties of the job
 
-## step 1
-You should use the platform mentioned above and then reverse engineer their mobile API.
-E.g. by using Mitmproxy or Charles Proxy. 
-Extract the endpoints to get the list/search and the detail entries.
+## Deliverables
 
-## step 2
-Use their API to build a small progressive web application with 2 simple views:
+Please provide us via email:
+- url to a functional demo environment, so we can review your work
+- url to your github repo hosting all code and docs 
+  - if private, please grant access to our CTO @strittmatter
 
-- a list of jobs (e.g. newest 20, whatever the API proivdes) 
-- a detail view if you tap on a job.
+## Rules & limitations
 
-You can find more information about what a Progressive web here: [progressive-web-apps.md](progressive-web-apps.md)
+- you may decide by yourself when you want to work on this challenge, but..
+- don't spend more than **4 hours** in total
+- when you find an issue, either solve it or document it
+- (optional) in case you want to add a small backend to the project, please use Node.js / NestJS
 
-You do not necessairly need to implement all features (e.g. notifications). 
-Watch your time and try to get as far as possible in about 5-8 hours of hacking.
+# Evaluation criteria
 
-## Constraints
+## What we look for
 
-Depending on your project architecture, you are kindly asked to use one or multiple of the following technologies:
+- working demo
+- clean project setup 
+- clean documentation
+- proper usage of the mentioned technologies
 
-- NodeJS
-- Angular
-
-## Evaluation criterias
-
-What we look for:
-
-- clean project setup and documentation
-- proper usage of the above state technologiges
-- ability to dive into a new topic, extract the important points and then code it up.
-- **polish and an eye for design:** focus on making it look good instead of adding features.
-- make it snappy 
-- **display the important information at the right place without overloading**. (e.g. in a list view of real estate properties, what are the important pieces of information beside a picture?) 
-- strip away features, time is scarce!
-- document your approach, your decisions and your general notes
-
-Bonus:
-- add innovative features into these "classic" views.
-- provide a critique of the API you reverse engineered.
-- add additional features/gimmicks/easter egg.
-- extra bonus points for making us laugh
-
-
-
+## Chance for extra credits
+- keep it simple and functional
+- display the important information at the right place while avoiding overload
+- provide a critique of the API you reverse engineered
+- you have an idea for a nice feature, easter egg or gimmick for this rather rusty topic? Let us know in the docs!
+- don't take the challenge too serious - we value good quality code, but also we enjoy a good laugh!
