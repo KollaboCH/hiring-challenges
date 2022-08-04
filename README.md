@@ -11,7 +11,7 @@ This is your time to shine and to show that you're into tech as much as we are! 
 
 ## Requirements
 
-- build a small Angular web app by reusing existing API from the Swiss job portal [jobs.ch](www.jobs.ch)
+- build a small Angular web app by reusing existing API from the Swiss job portal [jobs.ch](https://www.jobs.ch)
 - analyze and reverse-engineer their website and their API
 - integrate their API into your Angular web app, and provide the following pages:
     - simple job search, incl. displaying the results
@@ -22,7 +22,7 @@ This is your time to shine and to show that you're into tech as much as we are! 
 Please provide us via email:
 - url to a functional demo environment, so we can review your work
 - url to your github repo hosting all code and docs 
-  - if private, please grant access to our CTO @strittmatter
+  - if private, please grant access to our CTO [@strittmatter](https://github.com/strittmatter)
 
 ## Rules & limitations
 
